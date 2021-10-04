@@ -1,0 +1,28 @@
+.dot-green {
+    height: 15px;
+    width: 15px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    background: green;
+}
+.dot-red {
+    height: 15px;
+    width: 15px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    background: red;
+}
+.dot-gray {
+    height: 15px;
+    width: 15px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    background: gray;
+}
+.btn{
+    width: 120px;
+    font-size: 0.8rem !important;
+}
